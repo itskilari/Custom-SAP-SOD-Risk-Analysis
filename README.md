@@ -6,5 +6,5 @@ Python script created to automate SOD analysis checks and complete detailed repo
 This script is useful in implementation project when SAP GRC implementation is not done from client side.
 
 contact me for issues Or to Contribute : https://www.linkedin.com/in/kchandras209/
-Webpage
+Webpage - This is a learning project
 <img width="1588" height="891" alt="image" src="https://github.com/user-attachments/assets/e842d298-149f-4e34-90a8-9382d3af8e8c" />
